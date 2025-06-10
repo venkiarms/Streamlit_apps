@@ -42,7 +42,7 @@ with st.sidebar:
     )
     
 if select == "Home":
-    st.title("Welcome to Home")
+    st.title("Welcome to Vinsup Infotech")
     st.divider()
     col1,col2 = st.columns(2)
     with col1:
