@@ -1,7 +1,7 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
 
-# st.title("Hello World")
+# st.title("Vinsup Infotech")
 # st.header("📝This is a header📝")
 # st.subheader("This is a subheader")
 # st.write("✔️  This is a text")
